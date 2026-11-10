@@ -54,23 +54,42 @@ Follow these steps to use the application:
 
 ## Project Structure
 Notes-app/
+
 │
+
 ├── public/
+
 │
+
 ├── src/
+
 │   ├── assets/
+
 │   │
+
 │   ├── components/
+
 │   │
+
 │   ├── App.jsx
+
 │   ├── main.jsx
+
 │   └── index.css
+
 │
+
 ├── index.html
+
 ├── package.json
+
 ├── package-lock.json
+
 ├── vite.config.js
+
 └── README.md
+
+
 
 ## Upcoming Features
 - Edit Notes: Allow users to edit their existing notes.
@@ -85,7 +104,7 @@ Notes-app/
 - Project: Notes App
 - Role: Developer
 
-## License
+### License
 No license has been added to this project yet.
 
 This project was created by #### Sandesh .
