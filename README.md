@@ -50,3 +50,42 @@ Follow these steps to use the application:
 4. Click the Create Note button to save your note.
 5. View your created notes on the screen.
 6. Click the Delete button to remove a note whenever you want.
+
+
+## Project Structure
+Notes-app/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   │
+│   ├── components/
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
+
+## Upcoming Features
+- Edit Notes: Allow users to edit their existing notes.
+- Search Notes: Add a search functionality to find notes quickly.
+- Local Storage: Store notes in the browser so they remain available after refreshing the page.
+- User Authentication: Allow users to create accounts and manage their personal notes.
+- Pin Important Notes: Allow users to pin important notes for quick access.
+
+## Author
+### Sandesh Namdev Rasal
+- GitHub: Sandesh-9890
+- Project: Notes App
+- Role: Developer
+
+## License
+No license has been added to this project yet.
+
+This project was created by #### Sandesh .
