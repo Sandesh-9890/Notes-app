@@ -2,6 +2,7 @@
 
 ## Project Description :-
 The project is designed for daily use , allowing users to create and manage their notes. Users can also delete the notes they hava created whenever they want.
+Also I use useState for two way binding using form tag properties like value , onChange , etc.
 
 ### Main Functionalities
 - Create Notes: Users can create new notes by adding a title and description.
@@ -17,7 +18,6 @@ The project is designed for daily use , allowing users to create and manage thei
 - JavaScript (ES6+) – Implementing application logic and functionality.
 - Tailwind CSS – Styling and designing the UI.
 - HTML5 – Structuring the application.
-- CSS3 – Custom styling.
 - Lucide React – Providing icons for the application.
 
 ### Installation
@@ -68,4 +68,4 @@ Follow these steps to use the application:
 ### License
 No license has been added to this project yet.
 
-This project was created by #### Sandesh .
+This project was created by  Sandesh .
