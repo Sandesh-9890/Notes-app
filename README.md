@@ -19,3 +19,25 @@ The project is designed for daily use , allowing users to create and manage thei
 - HTML5 – Structuring the application.
 - CSS3 – Custom styling.
 - Lucide React – Providing icons for the application.
+
+### Installation
+
+Follow these steps to run the project locally.
+
+#### 1. Clone the repository :-
+https://github.com/Sandesh-9890/Notes-app.git
+
+#### 2. Navigate to the project directory :-
+cd Notes-app
+
+#### 3. Install dependencies :-
+npm install
+
+#### 4. Start the development server :-
+npm run dev
+
+#### 5. Open in browser :-
+Copy the local URL displayed in the terminal (usually http://localhost:5173/) and open it in your browser.
+
+Note: Make sure Node.js and npm are installed on your system before running the project.
+
