@@ -70,8 +70,8 @@ const App = () => {
           return (
             
               <div key={idx} className="flex justify-between flex-col items-start  relative h-52 w-40 bg-cover rounded-xl text-black pt-9 pb-4 px-4 bg-[url('https://static.vecteezy.com/system/resources/previews/037/152/677/non_2x/sticky-note-paper-background-free-png.png')] ">
-                <div>
-                  <h1 className='leading-tight text-lg font-bold whitespace-normal break-all'>{ele.title}</h1>
+                <div className='flex flex-wrap'>
+                  <h1 className='leading-tight text-lg font-bold '>{ele.title}</h1>
                   <p className='mt-2 leading-tight text-xs font-semibold text-gray-600 '>{ele.note}</p>
                 </div>
                 <button
