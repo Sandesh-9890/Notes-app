@@ -52,45 +52,6 @@ Follow these steps to use the application:
 6. Click the Delete button to remove a note whenever you want.
 
 
-## Project Structure
-Notes-app/
-
-│
-
-├── public/
-
-│
-
-├── src/
-
-│   ├── assets/
-
-│   │
-
-│   ├── components/
-
-│   │
-
-│   ├── App.jsx
-
-│   ├── main.jsx
-
-│   └── index.css
-
-│
-
-├── index.html
-
-├── package.json
-
-├── package-lock.json
-
-├── vite.config.js
-
-└── README.md
-
-
-
 ## Upcoming Features
 - Edit Notes: Allow users to edit their existing notes.
 - Search Notes: Add a search functionality to find notes quickly.
