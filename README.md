@@ -41,3 +41,12 @@ Copy the local URL displayed in the terminal (usually http://localhost:5173/) an
 
 Note: Make sure Node.js and npm are installed on your system before running the project.
 
+
+### Usage
+Follow these steps to use the application:
+1. Start the development server using npm run dev.
+2. Open the application in your browser.
+3. Enter a title and description to create a new note.
+4. Click the Create Note button to save your note.
+5. View your created notes on the screen.
+6. Click the Delete button to remove a note whenever you want.
