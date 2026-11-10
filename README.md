@@ -11,3 +11,11 @@ The project is designed for daily use , allowing users to create and manage thei
 - Responsive Design: Works on different screen sizes.
 
 ![Project Screenshot](./src/assets/Screenshot1.png)
+
+### Tech Stack
+- React.js – Building the user interface.
+- JavaScript (ES6+) – Implementing application logic and functionality.
+- Tailwind CSS – Styling and designing the UI.
+- HTML5 – Structuring the application.
+- CSS3 – Custom styling.
+- Lucide React – Providing icons for the application.
